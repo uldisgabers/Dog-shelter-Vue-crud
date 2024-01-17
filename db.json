@@ -1,0 +1,100 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Buddy",
+      "breed": "Labrador Retriever",
+      "age": 3,
+      "about": "Friendly and playful, loves to fetch and go for walks.",
+      "photo": "https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1670938235.1927571/fun-facts-about-labrador-retrievers.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bailey",
+      "breed": "German Shepherd",
+      "age": 2,
+      "about": "Intelligent and loyal, great with families and loves to learn new tricks.",
+      "photo": "https://cdn.britannica.com/79/232779-004-9EBC7CB8/German-Shepherd-dog-Alsatian.jpg"
+    },
+    {
+      "name": "Charlie",
+      "age": 4,
+      "breed": "Beagle",
+      "about": "Curious and energetic, enjoys exploring the outdoors and has a keen sense of smell.",
+      "photo": "https://www.animalbehaviorcollege.com/wp-content/uploads/2015/03/beagle.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Luna",
+      "breed": "Siberian Husky",
+      "age": 1,
+      "about": "Energetic and friendly, requires regular exercise and enjoys socializing with other dogs.",
+      "photo": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "breed": "Golden Retriever",
+      "age": 5,
+      "about": "Gentle and affectionate, great with children and loves water activities.",
+      "photo": "https://www.dailypaws.com/thmb/DQfQglzyKWlVSlsDwKPprF2iMSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/golden-retriever-177213599-2000-a30830f4d2b24635a5d01b3c5c64b9ef.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mia",
+      "breed": "Shih Tzu",
+      "age": 6,
+      "about": "Sweet and adaptable, thrives on companionship and enjoys cuddling.",
+      "photo": "https://rollingrottskennel.com/wp-content/uploads/2020/02/Shih-Tzu.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Rocky",
+      "breed": "Boxer",
+      "age": 2,
+      "about": "Energetic and playful, requires an active lifestyle and enjoys playtime with toys.",
+      "photo": "https://www.thesprucepets.com/thmb/YwjpUBfdG8mkz2L64CX4-mA8cko=/1539x0/filters:no_upscale():strip_icc()/boxer-dog-breed-1117944-hero-dfe9f67a59ce4ab19ebd274c06b28ad1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Zoe",
+      "breed": "Dachshund",
+      "age": 3,
+      "about": "Clever and affectionate, may have a strong personality but loves to be part of a family.",
+      "photo": "https://www.thesprucepets.com/thmb/8UgAnzf_7o7i7qPPr528XtM0IW8=/2121x0/filters:no_upscale():strip_icc()/GettyImages-839279536-313d30c290584bc0a207bc6243263bd4.jpg"
+    },
+    {
+      "name": "Teddy",
+      "age": 3,
+      "breed": "Cavalier King Charles Spaniel",
+      "about": "Gentle and friendly, gets along well with other pets and enjoys lap time.",
+      "photo": "https://cdn.britannica.com/37/233237-050-14563F54/Cavalier-King-Charles-Spaniel-dog.jpg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Sophie",
+      "breed": "Poodle",
+      "age": 5,
+      "about": "Intelligent and hypoallergenic, requires regular grooming and enjoys learning new tricks.",
+      "photo": "https://image.petmd.com/files/inline-images/standard-poodle.jpg?VersionId=1Pjx5emdAPxmImIlwCR0tX3HXxxm_NhT"
+    },
+    {
+      "name": "Teo",
+      "age": 1,
+      "breed": "Yorkshire Terrier",
+      "about": "Loves to chev everything",
+      "photo": "https://www.sheknows.com/wp-content/uploads/2018/12/gggk1jzcofgkh8ntt6rz.jpeg",
+      "id": 11
+    },
+    {
+      "name": "Molly",
+      "age": 2,
+      "breed": "Golden Retriever",
+      "about": "asd",
+      "photo": "https://www.southernliving.com/thmb/Rz-dYEhwq_82C5_Y9GLH2ZlEoYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-837898820-1-4deae142d4d0403dbb6cb542bfc56934.jpg",
+      "id": 12
+    }
+  ]
+}
