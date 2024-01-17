@@ -1,24 +1,34 @@
-# md20-vue-crud
+# DOG SHELTER PAGE using Vue
+
+You have the ability to browse through existing dog cards, add new ones, delete existing ones, and also make edits to the cards.
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+When you have installed all the dependencies, run the project
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Project is using a JSON server as a database option
+
+To launch the JSON server use this command in a new terminal
+
 ```
-npm run build
+json-server --watch db.json
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### DB is a using this scheme
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+"name": string,
+"age": number,
+"breed": string,
+"about": string,
+"photo": string,
+"id": number
+```
